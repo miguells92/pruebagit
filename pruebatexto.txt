@@ -1,2 +1,4 @@
 Este es un archivo de prueba para probar el VIM GIT
 Primer commit
+
+estoy trabajando en el archivo de la rama2
